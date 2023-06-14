@@ -1,0 +1,78 @@
+section {
+    margin: 0 0 15% 0;
+}
+.container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15% 0 15% 0;
+}
+.container3 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.cont-1, .cont-4, .cont-7 {
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
+.cont-2, .cont-8 {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
+
+.cont-3 {
+    background-color: darkseagreen;
+    width: 100px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
+.container4, .container6 {
+    display: flex;
+    justify-content: center;
+}
+.container5 {
+    display: flex;
+    justify-content: center;
+    margin: 5% 0 5% 0;
+}
+
+.cont-5 {
+    background-color: cornflowerblue;
+    width: 600px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
+.cont-6 {
+    background-color: darkseagreen;
+    width: 100px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
+.siva {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 35%;
+    margin-bottom: 0px;
+}
+.container7, .container8, .container9 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cont-9 {
+    background-color: darkseagreen;
+    width: 100px;
+    height: 100px;
+    border: 1px darkkhaki solid;
+}
